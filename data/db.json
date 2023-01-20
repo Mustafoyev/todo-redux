@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "email": "otabek123@gmail.com",
+      "password": "$2a$10$Wk7FXNmDrEyZ4awgumTKIu5wdxWFTDjlhjFCsVHJf9FuBl/nKkNCy",
+      "first_name": "Otabek",
+      "last_name": "Mustafoyev",
+      "id": 1
+    },
+    {
+      "email": "jonibek@gmail.com",
+      "password": "$2a$10$M8wpYUYPrGmwcmpnD9Md6.ve/HWNj1s2SBqiclk9Gyx3qfg6EDaNK",
+      "first_name": "Jonibek",
+      "last_name": "Qodirov",
+      "id": 2
+    },
+    {
+      "email": "shokir123@gmail.com",
+      "password": "$2a$10$NK46lkSi8x5vKKsLk.VlNu3UMgsYON7ppQifEHdBvwJ.zOxTd8WSa",
+      "first_name": "Shokir",
+      "last_name": "Toxirov",
+      "id": 3
+    },
+    {
+      "email": "asilbek@gmail.com",
+      "password": "$2a$10$7zXSmclBynRpsdU068fJW.IhmcPPACegNci328nEc79g7M0yWGQVa",
+      "first_name": "Asilbek",
+      "last_name": "Mustafoyev",
+      "id": 4
+    },
+    {
+      "email": "otabek@gmail.com",
+      "password": "$2a$10$xIMXB6Jp3mdWy/bCdxIX4ecdpJxufAXSB8pa155yEynVOol2E/MRO",
+      "first_name": "otabek",
+      "last_name": "mustafoyev",
+      "id": 5
+    }
+  ],
+  "todos": [
+    {
+      "todo": "kitob o'qish",
+      "status": false,
+      "id": 1
+    },
+    {
+      "todo": "code yozish",
+      "status": false,
+      "id": 3
+    },
+    {
+      "todo": "yugurish",
+      "status": false,
+      "id": 4
+    },
+    {
+      "todo": "qo'shimcha dars",
+      "status": false,
+      "id": 6
+    },
+    {
+      "todo": "uxlash",
+      "status": true,
+      "id": 7
+    }
+  ]
+}
